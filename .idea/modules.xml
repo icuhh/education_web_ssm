@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-parent/common-parent.iml" filepath="$PROJECT_DIR$/common-parent/common-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/education-api/educationapi.iml" filepath="$PROJECT_DIR$/common-parent/education-api/educationapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/education-dao/educationdao.iml" filepath="$PROJECT_DIR$/common-parent/education-dao/educationdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/education-manager/educationmanager.iml" filepath="$PROJECT_DIR$/common-parent/education-manager/educationmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/education-model/educationmodel.iml" filepath="$PROJECT_DIR$/common-parent/education-model/educationmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/education-service/educationservice.iml" filepath="$PROJECT_DIR$/common-parent/education-service/educationservice.iml" />
+    </modules>
+  </component>
+</project>

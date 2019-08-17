@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="educationapi:war">
+    <output-path>$PROJECT_DIR$/common-parent/education-api/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>educationapi</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="education-api.war">
+      <element id="artifact" artifact-name="educationapi:war exploded" />
+    </root>
+  </artifact>
+</component>
