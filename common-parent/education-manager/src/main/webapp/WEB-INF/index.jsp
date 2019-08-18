@@ -357,7 +357,7 @@
 <!-- 加载js文件-->                                                                                                                                                                                           
 	<script type="text/javascript" src="common/layui/layui.js"></script> 
 	<script type="text/javascript" src="js/larry.js"></script>
-	<script type="text/javascript" src="js/index.js"></script>
+	<script type="text/javascript" src="static/js"></script>
 <!-- 锁屏 -->
 <div class="lock-screen" style="display: none;">
 	<div id="locker" class="lock-wrapper">
